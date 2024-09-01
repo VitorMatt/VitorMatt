@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" height="40" alt="html logo"  />
+  <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/html-2752158-2284975.png?f=webp&w=256" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="40" alt="css logo"  />
   <img width="12" />
