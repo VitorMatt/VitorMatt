@@ -1,5 +1,5 @@
 <h2 align="left">Olá 👋! Me chamk Vitor</h2>
-<h3 align="left">Sou um desenvolvedor front e backend</h3>
+<h2 align="left">Sou um desenvolvedor front 🖥 e back ⌨️ end</h2>
 
 ###
 
