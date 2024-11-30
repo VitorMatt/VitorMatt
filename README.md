@@ -1,5 +1,5 @@
 <h2 align="left">Olá 👋! Me chamo Vitor</h2>
-<h2 align="left">Sou um desenvolvedor</h2> <h2>Front e Back end 💻</h2>
+<h3 align="left">Sou um desenvolvedor</h3> <h3>Front e Back end 💻</h3>
 
 ###
 
