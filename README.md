@@ -1,5 +1,5 @@
-<h2 align="left">Olá 👋! Me chamo Vitor</h2>
-<h3 align="left">Sou um desenvolvedor</h3> <h3>Full Stack 💻</h3>
+<h2 align="center">Olá 👋! Eu sou Vitor.</h2>
+<h3 align="left">Estou cursando o 4° e último semestre em Técnico em Desenvolvimento de Sistemas✅</h3> <h3>Full Stack 💻</h3>
 
 ###
 
