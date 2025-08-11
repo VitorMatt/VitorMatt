@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://logospng.org/wp-content/uploads/node-js.png" height="30" alt="node logo"  />
+  <img src="https://thumbnail.imgbin.com/20/12/16/imgbin-node-js-javascript-asynchronous-i-o-chrome-v8-others-LphjRYcnffwCKTtrW4w4mge8N_t.jpg" height="30" alt="node logo"  />
 </div>
 
 ###
