@@ -1,10 +1,10 @@
 <h2 align="start">Olá👋! Eu sou Vitor.</h2>
-<h3 align="center" width="20" >Estou cursando o meu 4° e último semestre em:</h3>
-<h3 align="center" width="20">Técnico em Desenvolvimento de Sistemas - SENAI✅</h3><h3 align="center">Full Stack 💻</h3>
+<h3 align="start" width="20" >Estou cursando o meu 4° e último semestre em:</h3>
+<h3 align="start" width="20">Técnico em Desenvolvimento de Sistemas - SENAI✅</h3><h3 align="start">Full Stack 💻</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorMatt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorMatt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
