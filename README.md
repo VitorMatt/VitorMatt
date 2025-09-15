@@ -1,6 +1,5 @@
 <h2 align="start">Olá👋! Eu sou Vitor.</h2>
-<h3 align="start" width="20" >Estou cursando o meu 4° e último semestre em:</h3>
-<h3 align="start" width="20">Técnico em Desenvolvimento de Sistemas - SENAI✅</h3><h3 align="start">Full Stack 💻</h3>
+<h3 align="start" width="20">Técnico em Desenvolvimento de Sistemas.</h3><h3 align="start">Full Stack 💻</h3>
 
 ###
 
